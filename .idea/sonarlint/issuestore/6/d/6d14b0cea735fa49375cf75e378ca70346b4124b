@@ -1,0 +1,18 @@
+
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+
+java:S2681k"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Æï­³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚåÙ§
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¤éƒ£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îÒˆŠøÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(öÕõà
+V	java:S1256"<This block of commented-out lines of code should be removed.(—Æà†øÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(„ İµüÿÿÿÿ
+d
+java:S3973i"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“–ış
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¨Ğ¿x
